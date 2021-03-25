@@ -1,0 +1,3 @@
+C:/C/clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/C/clock/cmake-build-debug/CMakeFiles/clock.dir
+C:/C/clock/cmake-build-debug/CMakeFiles/edit_cache.dir
